@@ -3,9 +3,9 @@ var app = builder.Build();
 
 app.MapGet("/", () => new
 {
-	service = "BankSystem.Api",
-	status = "running",
-	databaseTarget = "PostgreSQL"
+    service = "BankSystem.Api",
+    status = "running",
+    databaseTarget = "PostgreSQL"
 });
 
 app.Run();

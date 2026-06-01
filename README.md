@@ -21,6 +21,10 @@ From the repository root:
 dotnet build BankSystem.slnx
 ```
 
+## Local configuration
+
+Set database credentials outside source control using either environment variables (`ConnectionStrings__BankSystemDb`) or `dotnet user-secrets`.
+
 ## Initial decisions
 
 - Runtime: Modern .NET (`net10.0`)

@@ -1,0 +1,12 @@
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.deps.json
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.dll
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.pdb
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.AssemblyInfoInputs.cache
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.AssemblyInfo.cs
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.sourcelink.json
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.dll
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\refint\BankSystem.Domain.dll
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.pdb
+c:\Users\User\Documents\GitHub\Bank_System\src\BankSystem.Domain\obj\Debug\net10.0\ref\BankSystem.Domain.dll

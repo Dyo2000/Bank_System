@@ -1,3 +1,3 @@
 namespace BankSystem.Application;
 
-public sealed class ApplicationAssemblyMarker;
+public sealed class ApplicationAssemblyMarker { }

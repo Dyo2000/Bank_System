@@ -1,3 +1,3 @@
 namespace BankSystem.Infrastructure;
 
-public sealed class InfrastructureAssemblyMarker;
+public sealed class InfrastructureAssemblyMarker { }

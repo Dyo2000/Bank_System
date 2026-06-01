@@ -1,3 +1,3 @@
 namespace BankSystem.Domain;
 
-public sealed class DomainAssemblyMarker;
+public sealed class DomainAssemblyMarker { }
